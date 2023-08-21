@@ -1,0 +1,47 @@
+body,h1,h2,h3,h4,h5,h6,p,div,ul,ol{
+	padding:0;
+	margin:0;
+	font-family: 'Noto Sans', sans-serif;}
+.container{
+	width:550px;
+	margin:0 auto;
+}
+.logo-wrapper{
+	text-align:center;
+	padding:40px 0;
+}
+
+.box{
+	background:gray;
+	border-radius:10px;
+	padding:27px;
+	margin:0 0 30px;
+}
+.box h1,.box h2{
+	font-weight:400;
+}
+.box p{
+	font-weight:300;
+	line-height:29px;
+	color:#2b2b2b;
+}
+.bg-blue{
+	background:#b3c5f6;
+}
+.bg-blue h1{
+	color:#2f4c9b;
+	font-size:36px;	
+}
+.bg-blue p{
+	color:#5f6a94;
+	font-size:19px;
+}
+.bg-orange{
+	background:#f4c9a0;
+}
+.bg-green{
+	background:#a7f48c;
+}
+.bg-purple{
+	background:#f4c5fd;
+}
